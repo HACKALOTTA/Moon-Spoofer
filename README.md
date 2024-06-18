@@ -1,5 +1,3 @@
-## You Also Can Visit Us On Telegram
-
 ## Hwid Spoofer EAC BE Vanguard C++ | BioGuard
 
 ## As anti-cheat systems have evolved, we've recognized that they now target your computer's unique identification. The solution lies in employing an HWID Spoofer, effectively disguising your system as a different PC. Product operates at ring 0 level, offering an unmatched level of safety and effectiveness in the market.
